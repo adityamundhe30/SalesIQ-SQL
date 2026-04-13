@@ -152,4 +152,4 @@ SOURCE queries/analysis/07_analysis.sql;
 
 ---
 
-_Built by [Aditya Mundhe] | 📊 SalesIQ — Sales Intelligence System | [GitHub](https://github.com/adityamundhe30) | [LinkedIn](https://www.linkedin.com/in/adityamundhe30/)_
+_Built by Aditya Mundhe | 📊 SalesIQ — Sales Intelligence System | [GitHub](https://github.com/adityamundhe30) | [LinkedIn](https://www.linkedin.com/in/adityamundhe30/)_
